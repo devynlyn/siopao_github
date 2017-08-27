@@ -4,7 +4,7 @@
 }
 
 body{
-  background: url("file:///Users/devyn/Coding%20Projects/siopao/github/resources/images/sunset.jpg");
+  background: url("..resources/images/sunset.jpg");
   background-size: 100%;
   background-repeat: repeat;
 }
